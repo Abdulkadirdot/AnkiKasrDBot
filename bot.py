@@ -1,7 +1,7 @@
 import os
 import io
 import asyncio
-from pyrogram import Client, type, filters
+from pyrogram import Client, types, filters
 from pyrogram.enums import ChatAction
 from server import server
 pip install python-telegram-bot
